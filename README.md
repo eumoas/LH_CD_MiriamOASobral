@@ -1,5 +1,4 @@
-# LH_CD_MiriamOASobral
-Repositório do Programa Lighthouse Indicium_Cientista de Dados_ 2025
+
 
 https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBkcHF0dngzb2QwODY1bnFhd2RqeWptdjkwMnhnOHN0YTJyeXVwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mIzxHJogusIqN5esAY/giphy.gif
 
@@ -70,11 +69,11 @@ O cliente da Indicium deseja criar uma plataforma de aluguéis temporários na c
 ## Entregas do projeto
 
 * Produto A: Análise exploratória de dados (EDA)
-* Produto B: Hipóteses para o negócio
+* Produto B: Relatório de Hipóteses para o negócio
 * Produto C: Modelagem Preditiva
-* Produto D: Arquivo salvo.pkl
-* Produto E: Repositório GITHUB
-* Produto F: Apresentação em vídeo
+* Produto D: Implantação (Arquivo salvo.pkl)
+* Produto E: Apresentação em vídeo
+* Produto F: Repositório GITHUB 
 
 
 # Tecnologias utilizadas
