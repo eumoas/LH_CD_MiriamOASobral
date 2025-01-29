@@ -1,7 +1,5 @@
 
 
-https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBkcHF0dngzb2QwODY1bnFhd2RqeWptdjkwMnhnOHN0YTJyeXVwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mIzxHJogusIqN5esAY/giphy.gif
-
 # Desafio Ciência de Dados - Lighthouse 2025
 
 ![indicium (1)](https://github.com/eumoas/LH_CD_MiriamOASobral/blob/main/Outros/64944e552f9b281987535da9_Logo-indicium-09.svg)
