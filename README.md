@@ -90,7 +90,12 @@ Se você estiver usando um ambiente diferente do Google Colab e deseja carregar 
 
 1. **Monte o Drive (se necessário):**
    - Em alguns ambientes, como Jupyter Notebook local, você pode precisar montar o seu Google Drive manualmente.
-   - No Google Colab, essa etapa não é necessária, pois já possui integração direta.
+   - No Google Colab:
+     
+            from google.colab import drive
+            drive.mount('/content/drive')
+
+Você pode acessar os arquivos no Drive pelo caminho /content/drive/MyDrive/.
 
 2. **Especifique o Caminho Completo:**
    - Forneça o caminho completo até o arquivo CSV no seu drive. Se o arquivo estiver em uma pasta, inclua o caminho até essa pasta.
