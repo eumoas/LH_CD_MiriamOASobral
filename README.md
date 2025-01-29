@@ -7,7 +7,7 @@ https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBkcHF0dngzb2QwODY1bnFhd2RqeW
 ![indicium (1)](https://github.com/user-attachments/assets/fd6834e0-8b0f-45b2-a739-16daead80523)
 
 
-# Sobre o projeto: Tranformando dados para alcançar vantagens competitivas
+# "Do Check-in ao Check-out: Estratégias Data Driven para Aluguéis de Temporada"
 
 Olá! Seja bem vindo a este repositório do desafio de ciência de dados da Indicium. Nele você vai encontrar uma solução para te ajudar na tomada de decisões no ramo de aluguéis de temporada.
 Foi objeto de estudo um conjunto de dados de imóveis disponíveis para locação de temporada do principal concorrente do cliente.
