@@ -18,14 +18,34 @@ Foi objeto de estudo um conjunto de dados de imóveis disponíveis para locaçã
 
 Explorar analiticamente o mercado de imóveis de temporada e a partir disso construir uma estratégia de precificação dos imóveis disponíveis para locaçaõ em NYC.
 
-## Metodologia Crisp DM Model
-
-Utilizou-se a metodologia Crisp DM - Cross Industry Standard Process for Data Mining, que em português significa algo como “Processo Padrão Inter-Indústrias para Mineração de Dados”. O objetivo é desenvolver modelos a partir da análise de informações e dados de um negócio para prever futuras falhas e soluções. 
-
-Composta por 6 etapas, ela inclui descrições das fases típicas de um projeto, as tarefas envolvidas em cada fase e uma explicação dos relacionamentos entre essas tarefas. Como um modelo de processo, o CRISP-DM fornece uma visão geral do ciclo de vida da mineração de dados.
-
 ## O problema do Negócio
 
+O cliente da Indicium deseja criar uma plataforma de aluguéis temporários na cidade de Nova York e sugeriu como passo inicial compreender o perfil de vendas de seu maior cliente (Análise Exploratória), bem como o teste para validação de um modelo de predição com base nessa experiência.
+
+## Perguntas a serem respondidas
+
+* 01 Supondo que uma pessoa esteja pensando em investir em um apartamento para alugar na plataforma, onde seria mais indicada a compra?
+
+* 02 O número mínimo de noites e a disponibilidade ao longo do ano interferem no preço?
+
+* 03 Existe algum padrão no texto do nome do local para lugares de mais alto valor?
+
+* 04 Qual seria o preço sugerido para um apartamento com as seguintes características?
+   {'id': 2595,
+      'nome': 'Skylit Midtown Castle',
+      'host_id': 2845,
+      'host_name': 'Jennifer',
+      'bairro_group': 'Manhattan',
+      'bairro': 'Midtown',
+      'latitude': 40.75362,
+      'longitude': -73.98377,
+      'room_type': 'Entire home/apt',
+      'minimo_noites': 1,
+      'numero_de_reviews': 45,
+      'ultima_review': '2019-05-21',
+      'reviews_por_mes': 0.38,
+      'calculado_host_listings_count': 2,
+      'disponibilidade_365': 355}
 
 ## Dicionário
 
@@ -50,7 +70,7 @@ Composta por 6 etapas, ela inclui descrições das fases típicas de um projeto,
 ## Entregas do projeto
 
 * Produto A: Análise exploratória de dados (EDA)
-* Produto B: Achados e insights
+* Produto B: Hipóteses para o negócio
 * Produto C: Modelagem Preditiva
 * Produto D: Arquivo salvo.pkl
 * Produto E: Repositório GITHUB
