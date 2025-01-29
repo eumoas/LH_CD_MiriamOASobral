@@ -4,7 +4,7 @@ https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBkcHF0dngzb2QwODY1bnFhd2RqeW
 
 # Desafio Ciência de Dados - Lighthouse 2025
 
-![indicium (1)](https://github.com/user-attachments/assets/fd6834e0-8b0f-45b2-a739-16daead80523)
+![indicium (1)]https://github.com/eumoas/LH_CD_MiriamOASobral/blob/main/Outros/64944e552f9b281987535da9_Logo-indicium-09.svg)
 
 
 # "Do Check-in ao Check-out: Estratégias Data Driven para Aluguéis de Temporada"
