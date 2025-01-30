@@ -133,32 +133,32 @@ Você pode acessar os arquivos no Drive pelo caminho /content/drive/MyDrive/.
 
 # Recomendações para a plataforma do cliente: 
 
-Diversidade: É importante considerar a diversidade de perfis potenciais a serem atendidos na plataforma. Embora a alta demanda por imóveis inteiros, pode ser vantajoso investir inicialmente nesse tipo de propriedade, mas também considerar a inclusão de quartos privados para diversificar a oferta.
+- Diversidade: É importante considerar a diversidade de perfis potenciais a serem atendidos na plataforma. Embora a alta demanda por imóveis inteiros, pode ser vantajoso investir inicialmente nesse tipo de propriedade, mas também considerar a inclusão de quartos privados para diversificar a oferta.
 
-Precificação: Os preços devem considerar que os imóveis inteiros podem ter preços mais elevados, uma vez que são os mais procurados. Já os quartos compartilhados podem ser oferecidos a preços mais baixos para atrair um público específico.
+- Precificação: Os preços devem considerar que os imóveis inteiros podem ter preços mais elevados, uma vez que são os mais procurados. Já os quartos compartilhados podem ser oferecidos a preços mais baixos para atrair um público específico.
 
-Otimização algoritmica: Algoritmos de otimização que possam sugerir melhores ofertas para apartamentos desocupados, maximizando a ocupação.
+- Otimização algoritmica: Algoritmos de otimização que possam sugerir melhores ofertas para apartamentos desocupados, maximizando a ocupação.
 
-Reviews: Importante desenhar estratégias para que os hóspedes deixem avaliações, seja por algum tipo de programa de fidelidade como milhas, ou mesmo bônus e desconto para a próxima locação. Garantir padrões de qualidade para que os hóspedes se sintam motivados a deixar sua opinião. Inicie, entendendo como foi a experiência do cliente e como pode ser melhor nas próximas vezes.
+- Reviews: Importante desenhar estratégias para que os hóspedes deixem avaliações, seja por algum tipo de programa de fidelidade como milhas, ou mesmo bônus e desconto para a próxima locação. Garantir padrões de qualidade para que os hóspedes se sintam motivados a deixar sua opinião. Inicie, entendendo como foi a experiência do cliente e como pode ser melhor nas próximas vezes.
 
-Hackear a legislação: Business voltado para locações com mais de 30 diárias, opção que não se enquadra nas limitações da nova lei.
+- Hackear a legislação: Business voltado para locações com mais de 30 diárias, opção que não se enquadra nas limitações da nova lei.
 
-Tráfego da plataforma: Monitorar e traçar planos específicos de tráfego para os imóveis com poucas avaliações, aumentando as suas chances de ocupação.
+- Tráfego da plataforma: Monitorar e traçar planos específicos de tráfego para os imóveis com poucas avaliações, aumentando as suas chances de ocupação.
 
-Custo benefício: Dê enfoque para imóveis que combinam preços acessíveis e um alto número de reviews positivos. Identifique os bairros onde os imóveis têm preços mais baixos e alta taxa de ocupação (baixa disponibilidade) e focalize nas ações de marketing e expansão nesses locais.
+- Custo benefício: Dê enfoque para imóveis que combinam preços acessíveis e um alto número de reviews positivos. Identifique os bairros onde os imóveis têm preços mais baixos e alta taxa de ocupação (baixa disponibilidade) e focalize nas ações de marketing e expansão nesses locais.
 
-Melhoria dos espaços: Incentive os anfitriões a melhorarem a qualidade dos seus espaços, de modo que imóveis com preços mais baixos mantenham padrões de qualidade, uma vez que isso levará a reviews positivos e aumentará sua popularidade.
+- Melhoria dos espaços: Incentive os anfitriões a melhorarem a qualidade dos seus espaços, de modo que imóveis com preços mais baixos mantenham padrões de qualidade, uma vez que isso levará a reviews positivos e aumentará sua popularidade.
 
-Gestão: Considere criar ferramentas que facilite a gestão dos anfitriões com muitos imóveis listados, por outro lado, considere oferecer benefícios ou recursos para que os menores também consigam prosperar tanto quanto os mais expansivos.
+- Gestão: Considere criar ferramentas que facilite a gestão dos anfitriões com muitos imóveis listados, por outro lado, considere oferecer benefícios ou recursos para que os menores também consigam prosperar tanto quanto os mais expansivos.
 
-Promoções: Incentive anfitriões com alta disponibilidade a listar pacotes promocionais ou descontos.
+- Promoções: Incentive anfitriões com alta disponibilidade a listar pacotes promocionais ou descontos.
 
-Avaliação reversa: Crie mecanismos para que os hóspedes também sejam avaliados pelos anfitriões, sendo justo com os dois lados. Dê espaço para os hóspedes ganhe bonificação ao postar vídeos curtos sobre sua experiência na locação, assim como acontece nessas plataformas de vendas de proutos: shoppee, aliexpress e etc.
+ - Avaliação reversa: Crie mecanismos para que os hóspedes também sejam avaliados pelos anfitriões, sendo justo com os dois lados. Dê espaço para os hóspedes ganhe bonificação ao postar vídeos curtos sobre sua experiência na locação, assim como acontece nessas plataformas de vendas de proutos: shoppee, aliexpress e etc.
 
 
 # Relatório
 
-- Relatório Canva https://www.canva.com/design/DAGdmQDFCn8/rC98e8TeZYcZijJ_FnHx0g/edit?utm_content=DAGdmQDFCn8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Relatório Canva https://www.canva.com/design/DAGdmQDFCn8/rC98e8TeZYcZijJ_FnHx0g/edit?utm_content=DAGdmQDFCn8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 # Vídeo
 
