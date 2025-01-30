@@ -10,14 +10,32 @@
 Olá! Seja bem vindo a este repositório do desafio de ciência de dados da Indicium. Nele você vai encontrar uma solução para te ajudar na tomada de decisões no ramo de aluguéis de temporada.
 Foi objeto de estudo um conjunto de dados de imóveis disponíveis para locação de temporada do principal concorrente do cliente.
 
-
 # Objetivo do Projeto
 
-Explorar analiticamente o mercado de imóveis de temporada e a partir disso construir uma estratégia de precificação dos imóveis disponíveis para locaçaõ em NYC.
+Construir um modelo preditivo eficiente, avaliá-lo com métricas adequadas e justificar as escolhas feitas ao longo do processo, incluindo análise exploratória, engenharia de features e validação do modelo.
 
 ## O problema do Negócio
 
+Previsão de preços para uma plataforma de aluguéis temporários em Nova York, utilizando dados do maior concorrente.
+
+## Contexto do Negócio
+
 O cliente da Indicium deseja criar uma plataforma de aluguéis temporários na cidade de Nova York e sugeriu como passo inicial compreender o perfil de vendas de seu maior cliente (Análise Exploratória), bem como o teste para validação de um modelo de predição com base nessa experiência.
+
+![](https://i.gifer.com/Hguj.gif)
+
+A cidade de Nova York compreende 5 distritos situados no encontro do rio Hudson com o Oceano Atlântico. No centro da cidade fica Manhattan, um distrito com alta densidade demográfica que está entre os principais centros comerciais, financeiros e culturais do mundo. 
+
+O mercado de aluguéis de temporada em Nova York enfrenta transformações significativas devido à implementação da Lei Local 18, que entrou em vigor em setembro de 2023. Essa legislação impõe restrições rigorosas aos aluguéis de curto prazo, exigindo que os anfitriões estejam presentes durante a estadia dos hóspedes, limitando o número de visitantes a dois por vez e proibindo o trancamento das portas dos quartos. Além disso, os anfitriões devem se registrar junto à prefeitura e pagar uma taxa bienal de US$ 145. Essas medidas visam combater práticas ilegais que, segundo as autoridades, geram barulho, lixo e problemas de segurança tanto para visitantes quanto para residentes.
+g1.globo.com
+
+Em resposta a essas restrições, surgiram alternativas no mercado. Startups como a Ohana estão se destacando ao focar em aluguéis com duração superior a 30 dias, modelo que não se enquadra nas limitações da nova lei. A Ohana já atraiu mais de 1.200 anfitriões provenientes do Airbnb e gerenciou US$ 2 milhões em pagamentos de aluguel. Paralelamente, plataformas como a Furnished Finder também registraram crescimento, oferecendo opções de estadias mais longas. No entanto, o mercado de aluguéis de temporada em Nova York permanece desafiador, exigindo que novas plataformas se adaptem às regulamentações em constante evolução e às demandas dos consumidores. 
+Fontes: 
+
+https://g1.globo.com/google/amp/mundo/noticia/2023/09/07/cidade-de-nova-york-proibe-alugueis-por-curto-prazo-como-os-do-airbnb.ghtml?utm_source=chatgpt.com
+
+https://nypost.com/2024/10/07/business/nycs-airbnb-crackdown-has-sparked-an-underground-market-for-home-shares/?utm_source=chatgpt.com
+   
 
 ## Perguntas a serem respondidas
 
@@ -113,10 +131,34 @@ Você pode acessar os arquivos no Drive pelo caminho /content/drive/MyDrive/.
    # Carregue os dados do arquivo CSV
    dados = pd.read_csv(caminho_arquivo)
 
-```
+# Recomendações para a plataforma do cliente: 
+
+Diversidade: É importante considerar a diversidade de perfis potenciais a serem atendidos na plataforma. Embora a alta demanda por imóveis inteiros, pode ser vantajoso investir inicialmente nesse tipo de propriedade, mas também considerar a inclusão de quartos privados para diversificar a oferta.
+
+Precificação: Os preços devem considerar que os imóveis inteiros podem ter preços mais elevados, uma vez que são os mais procurados. Já os quartos compartilhados podem ser oferecidos a preços mais baixos para atrair um público específico.
+
+Otimização algoritmica: Algoritmos de otimização que possam sugerir melhores ofertas para apartamentos desocupados, maximizando a ocupação.
+
+Reviews: Importante desenhar estratégias para que os hóspedes deixem avaliações, seja por algum tipo de programa de fidelidade como milhas, ou mesmo bônus e desconto para a próxima locação. Garantir padrões de qualidade para que os hóspedes se sintam motivados a deixar sua opinião. Inicie, entendendo como foi a experiência do cliente e como pode ser melhor nas próximas vezes.
+
+Hackear a legislação: Business voltado para locações com mais de 30 diárias, opção que não se enquadra nas limitações da nova lei.
+
+Tráfego da plataforma: Monitorar e traçar planos específicos de tráfego para os imóveis com poucas avaliações, aumentando as suas chances de ocupação.
+
+Custo benefício: Dê enfoque para imóveis que combinam preços acessíveis e um alto número de reviews positivos. Identifique os bairros onde os imóveis têm preços mais baixos e alta taxa de ocupação (baixa disponibilidade) e focalize nas ações de marketing e expansão nesses locais.
+
+Melhoria dos espaços: Incentive os anfitriões a melhorarem a qualidade dos seus espaços, de modo que imóveis com preços mais baixos mantenham padrões de qualidade, uma vez que isso levará a reviews positivos e aumentará sua popularidade.
+
+Gestão: Considere criar ferramentas que facilite a gestão dos anfitriões com muitos imóveis listados, por outro lado, considere oferecer benefícios ou recursos para que os menores também consigam prosperar tanto quanto os mais expansivos.
+
+Promoções: Incentive anfitriões com alta disponibilidade a listar pacotes promocionais ou descontos.
+
+Avaliação reversa: Crie mecanismos para que os hóspedes também sejam avaliados pelos anfitriões, sendo justo com os dois lados. Dê espaço para os hóspedes ganhe bonificação ao postar vídeos curtos sobre sua experiência na locação, assim como acontece nessas plataformas de vendas de proutos: shoppee, aliexpress e etc.
+
+
 # Relatório
 
-- Relatório Canva https://www.canva.com/design/DAGLVuQC59s/pxiw7R0T4bMHJ_XAOLiTcQ/edit
+- Relatório Canva https://www.canva.com/design/DAGdmQDFCn8/rC98e8TeZYcZijJ_FnHx0g/edit?utm_content=DAGdmQDFCn8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
   
 # Autor
 
