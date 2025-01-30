@@ -158,7 +158,7 @@ Você pode acessar os arquivos no Drive pelo caminho /content/drive/MyDrive/.
 
 # Relatório
 
-Relatório Canva https://www.canva.com/design/DAGdmQDFCn8/rC98e8TeZYcZijJ_FnHx0g/edit?utm_content=DAGdmQDFCn8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+https://www.canva.com/design/DAGdmQDFCn8/rC98e8TeZYcZijJ_FnHx0g/edit?utm_content=DAGdmQDFCn8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 # Vídeo
 
