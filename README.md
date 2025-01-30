@@ -27,7 +27,7 @@ O cliente da Indicium deseja criar uma plataforma de aluguéis temporários na c
 A cidade de Nova York compreende 5 distritos situados no encontro do rio Hudson com o Oceano Atlântico. No centro da cidade fica Manhattan, um distrito com alta densidade demográfica que está entre os principais centros comerciais, financeiros e culturais do mundo. 
 
 O mercado de aluguéis de temporada em Nova York enfrenta transformações significativas devido à implementação da Lei Local 18, que entrou em vigor em setembro de 2023. Essa legislação impõe restrições rigorosas aos aluguéis de curto prazo, exigindo que os anfitriões estejam presentes durante a estadia dos hóspedes, limitando o número de visitantes a dois por vez e proibindo o trancamento das portas dos quartos. Além disso, os anfitriões devem se registrar junto à prefeitura e pagar uma taxa bienal de US$ 145. Essas medidas visam combater práticas ilegais que, segundo as autoridades, geram barulho, lixo e problemas de segurança tanto para visitantes quanto para residentes.
-g1.globo.com
+
 
 Em resposta a essas restrições, surgiram alternativas no mercado. Startups como a Ohana estão se destacando ao focar em aluguéis com duração superior a 30 dias, modelo que não se enquadra nas limitações da nova lei. A Ohana já atraiu mais de 1.200 anfitriões provenientes do Airbnb e gerenciou US$ 2 milhões em pagamentos de aluguel. Paralelamente, plataformas como a Furnished Finder também registraram crescimento, oferecendo opções de estadias mais longas. No entanto, o mercado de aluguéis de temporada em Nova York permanece desafiador, exigindo que novas plataformas se adaptem às regulamentações em constante evolução e às demandas dos consumidores. 
 Fontes: 
