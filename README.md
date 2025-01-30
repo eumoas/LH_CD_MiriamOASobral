@@ -159,6 +159,10 @@ Avaliação reversa: Crie mecanismos para que os hóspedes também sejam avaliad
 # Relatório
 
 - Relatório Canva https://www.canva.com/design/DAGdmQDFCn8/rC98e8TeZYcZijJ_FnHx0g/edit?utm_content=DAGdmQDFCn8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+# Vídeo
+
+https://www.canva.com/design/DAGdmQDFCn8/OVNXG3bCbovQOGCatJugLg/view?utm_content=DAGdmQDFCn8&utm_campaign=designshare&utm_medium=link&utm_source=recording_view
   
 # Autor
 
