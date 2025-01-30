@@ -4,13 +4,13 @@
 
 ![indicium (1)](https://github.com/eumoas/LH_CD_MiriamOASobral/blob/main/Outros/64944e552f9b281987535da9_Logo-indicium-09.svg)
 
-
-# "Do Check-in ao Check-out: Estratégias Data Driven para Aluguéis de Temporada"
-
 Olá! Seja bem vindo a este repositório do desafio de ciência de dados da Indicium. Nele você vai encontrar uma solução para te ajudar na tomada de decisões no ramo de aluguéis de temporada.
 Foi objeto de estudo um conjunto de dados de imóveis disponíveis para locação de temporada do principal concorrente do cliente.
 
-# Objetivo do Projeto
+
+# "Do Check-in ao Check-out: Estratégias Data Driven para Aluguéis de Temporada"
+
+## Objetivo do Projeto
 
 Construir um modelo preditivo eficiente, avaliá-lo com métricas adequadas e justificar as escolhas feitas ao longo do processo, incluindo análise exploratória, engenharia de features e validação do modelo.
 
@@ -92,7 +92,7 @@ https://nypost.com/2024/10/07/business/nycs-airbnb-crackdown-has-sparked-an-unde
 * Produto F: Repositório GITHUB 
 
 
-# Tecnologias utilizadas
+## Tecnologias utilizadas
 
 ## Código
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
